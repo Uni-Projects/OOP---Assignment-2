@@ -1,7 +1,7 @@
 
 package assingment.pkg2;
 /**
- *
+ * Simple class to start the game. Potentially expandable.
  * @author Paolo Scattolin s1023775
  * @author Johan Urban s1024726
  */
